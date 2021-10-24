@@ -3,8 +3,8 @@ package memqueue
 import (
 	"context"
 
-	"github.com/vmihailenco/taskq/v3"
-	"github.com/vmihailenco/taskq/v3/internal/base"
+	"github.com/Subomi/taskq/v3"
+	"github.com/Subomi/taskq/v3/internal/base"
 )
 
 type factory struct {
